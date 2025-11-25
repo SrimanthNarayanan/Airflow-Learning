@@ -1,0 +1,11 @@
+{
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": true,
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.triggerCommandOnProviderChange": true,
+    "editor.quickSuggestions": {
+        "comments": "on"
+    }
+}
